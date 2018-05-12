@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43734#Relation-d-un-voyage-du-Pole-Arctique-au-Pole-Antarctique-par-le-centre-du-monde
 gutenberg_bookshelf: FR Science fiction
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
