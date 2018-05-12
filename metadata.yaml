@@ -1,0 +1,32 @@
+_repo: Relation-d-un-voyage-du-Pole-Arctique-au-Pole-Antarctique-par-le-centre-du-monde_43734
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43734-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: FR Science fiction
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43734'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 18th century'
+- !lcc 'PQ'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Science fiction'
+title: Relation d'un voyage du Pole Arctique au Pole Antarctique par le centre du
+  monde
+url: http://www.gutenberg.org/ebooks/43734
